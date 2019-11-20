@@ -9,4 +9,4 @@ To run the graphical simulation, after downloading QT 3.0.1 , you need to run
 The project is done in french, so all the conception diagram,documentation, journal, code is in french.
 
 
-![alt text] https://github.com/domzhaomathematics/pendulum/blob/master/images/CONCEPTION/CONCEPTION-1.png
+![Alt text](https://github.com/domzhaomathematics/pendulum/blob/master/images/CONCEPTION/CONCEPTION-1.png)
